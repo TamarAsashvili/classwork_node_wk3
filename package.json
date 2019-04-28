@@ -1,0 +1,18 @@
+{
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "express": "^4.16.4",
+    "lodash": "^4.17.11",
+    "shortid": "^2.2.14"
+  },
+  "scripts": {
+    "start": "node server.js"
+  },
+  "name": "classwork_node_wk3",
+  "version": "1.0.0",
+  "main": "app.js",
+  "devDependencies": {},
+  "author": "Tamar",
+  "license": "ISC",
+  "description": ""
+}
